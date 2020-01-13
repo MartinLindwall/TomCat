@@ -9,9 +9,9 @@
 <form action="NewFile.jsp">
 
   First name:<br>
-  <input type="text" name="firstname"><br>
+  <input type="text" name="Firstname"><br>
   Last name:<br>
-  <input type="text" name="lastname"><br>
+  <input type="text" name="Lastname"><br>
 
   
 <input type="submit" value="Submit">
